@@ -4,7 +4,7 @@ body {
 }
 
 @font-face {
-    font-family: 'name_about_font' ;
+    font-family: 'name_font' ;
     src: url("../font/Bounded/Bounded-Variable.woff2");
     font-weight: 100 900;  
     font-style: normal italic;
@@ -25,7 +25,7 @@ body {
     text-decoration: none;
     color: white;
     font-size: 30px;
-    font-family:'name_about_font';
+    font-family:'name_font';
     font-weight: 500;
 }
 
@@ -55,7 +55,7 @@ color: rgb(147, 18, 13);
     text-align: center;
     color:rgb(147, 18, 13);
     font-size: 45px;
-    font-family:'name_about_font';
+    font-family:'name_font';
     font-weight: 700;
 }
 
@@ -67,7 +67,7 @@ color: rgb(147, 18, 13);
     color:rgb(147, 18, 13);
     text-align: center;
     font-size: 23px;
-    font-family:'name_about_font';
+    font-family:'name_font';
     font-weight: 500;
 }
 
@@ -145,12 +145,12 @@ color: rgb(147, 18, 13);
 
 .saw_card .content h2 {
     color: rgb(147, 18, 13);
-    font-family: name_about_font;
+    font-family: name_font;
 }
 
 .saw_card .content p {
     color: rgb(147, 18, 13);
-    font-family: name_about_font;
+    font-family: name_font;
     font-weight: 400;
 }
 
